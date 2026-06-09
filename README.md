@@ -44,7 +44,7 @@ Centralizar indicadores operacionais em uma única tela, permitindo que times de
 ## 👤 Autor
 
 **Vinicius Ribeiro Abel**
-- 💼 Analista de BI Jr. | iGaming
+- 💼 Analista de BI
 - 🎓 Ciência da Computação — Universidade Anhembi Morumbi
 - 🐙 [GitHub](https://github.com/Viniboricuo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/viniciusribeiroabel/)
